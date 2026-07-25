@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+
+node_modules/
+npm-debug.log*
+.env
+.env.*
+dist/
+build/
+logs/
+*.log
+
+## Ignore service account keys
+**/serviceAccountKey.json
